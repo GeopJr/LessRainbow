@@ -1,0 +1,89 @@
+.lessrainbow.red {
+    background: #df382b;
+    width: 100%;
+    height: 10px;
+    position: relative;
+}
+
+.lessrainbow.orange {
+    background: #ff711f;
+    width: 100%;
+    height: 10px;
+    position: relative;
+}
+
+.lessrainbow.yellow {
+    background: #fabb06;
+    width: 100%;
+    height: 10px;
+    position: relative;
+}
+
+.lessrainbow.green {
+    background: #34a853;
+    width: 100%;
+    height: 10px;
+    position: relative;
+}
+
+.lessrainbow.blue {
+    background: #4285f4;
+    width: 100%;
+    height: 10px;
+    position: relative;
+}
+
+.lessrainbow.purple {
+    background: #9d41f9;
+    width: 100%;
+    height: 10px;
+    position: relative;
+}
+
+.lessrainbow.red.vertical {
+    background: #df382b;
+    height: 100%;
+    width: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.lessrainbow.orange.vertical {
+    background: #ff711f;
+    height: 100%;
+    width: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.lessrainbow.yellow.vertical {
+    background: #fabb06;
+    height: 100%;
+    width: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.lessrainbow.green.vertical {
+    background: #34a853;
+    height: 100%;
+    width: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.lessrainbow.blue.vertical {
+    background: #4285f4;
+    height: 100%;
+    width: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.lessrainbow.purple.vertical {
+    background: #9d41f9;
+    height: 100%;
+    width: 10px;
+    position: relative;
+    display: inline-block;
+}
